@@ -8,7 +8,6 @@
 ### [멍냥마켓 바로가기](https://meongnyang-market.com/)
 #### [Front-End Github](https://github.com/Hanhae99-final-3team/final_FE)
 #### [Back-End Github](https://github.com/Hanhae99-final-3team/final-be)
-<br>
 <hr>
 <br>
 
@@ -27,7 +26,20 @@
 <hr>
 <br>
 
-## ✨ 주요 기능 => 표로 정리해서 보여주기 
+## ✨ 주요 기능  
+|페이지|API 및 관련 메서드|
+|---|---|
+|로그인|✅로그인<br>✅카카오 로그인<br>✅토큰 재발행|
+|회원가입|✅회원가입<br>✅아이디 중복 검사<br>✅닉네임 중복 검사|
+|메인페이지|✅상품 리스트 조회<br>✅카테고리에 따른 분류 조회|
+|상품 상세 페이지|✅단일 상품 조회<br>✅조회한 상품 쿠키 발급<br>✅조회 수 증가<br>✅평균 가격 호출<br>✅상품 찜 기능<br>✅댓글 CRUD|
+|상품 등록 페이지|✅상품(게시글) CRUD<br>✅이미지 다중 업로드|
+|검색 페이지|✅상품 검색<br>✅인기 검색어<br>✅최근 검색어<br>✅최근 검색어 자동 저장 토글 ON/OFF<br>✅최근 검색어 자동 저장 토글 값 가져오기<br>✅최근 검색어 전체 삭제<br>✅최근 검색어 개별 삭제<br>✅검색어 자동 완성|
+|검색 결과 페이지|✅인기순 정렬<br>✅최신순 정렬<br>|
+|마이 페이지|✅로그아웃<br>✅마이페이지 차트<br>|
+|내가 쓴 글|✅내가 쓴 글<br>|
+|찜 리스트|✅찜 리스트<br>|
+|최근 본 상품|✅최근 본 상품<br>|
 
 <br>
 <hr>
@@ -42,7 +54,7 @@
   <br> 
 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Kakao Login-FFCD00?style=for-the-badge&logo=Kakao Login&logoColor=black"> 
+  <img src="https://img.shields.io/badge/kakaologin-FFCD00?style=for-the-badge&logo=kakaologin&logoColor=black"> 
   <img src="https://img.shields.io/badge/Json web tokens-000000?style=for-the-badge&logo=Json web tokens&logoColor=white"> 
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
   <br>
@@ -134,11 +146,11 @@
 
 |이름|깃허브 주소|포지션|
 |---|---|---|
-|김수정|[crystal993의 github](https://github.com/crystal993)|Frontend|
-|김주형|[KoreanCodingMachine의 github](https://github.com/KoreanCodingMachine)|Frontend|
 |이회섭|[HoisubLee의 github](https://github.com/HoisubLee)|Backend|
 |김재영|[fabius96의 github](https://github.com/fabius96)|Backend|
 |한종혁|[1argeD의 github](https://github.com/1argeD)|Backend|
+|김수정|[crystal993의 github](https://github.com/crystal993)|Frontend|
+|김주형|[KoreanCodingMachine의 github](https://github.com/KoreanCodingMachine)|Frontend|
 |양명현|[thisLife-hyeon의 github](https://github.com/thisLife-hyeon)|UI/UX|
 
 
